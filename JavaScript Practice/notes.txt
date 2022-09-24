@@ -1,0 +1,19 @@
+//Basic printing of Hello World quote from three different methods
+
+    // 1. Using console.log() 
+    // console.log is used for debugging
+
+    console.log("Hello World");
+
+    //2. Using alert() - The alert() method displays an alert box over the current window with the specified message.
+    alert("Hello World");
+
+    //3. Using document.write() - It used when you want to print the content to the HTML document.
+
+//JavaScript Program to Add two number
+    // 1. Add static numbers
+    // 2. Add dynamic numbers
+
+//JavaScript Program To Find Square Root of a number
+    //1. Math.sqrt(number) - Built in method Math.sqrt() method
+    //2. 
